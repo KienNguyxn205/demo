@@ -25,7 +25,11 @@
         <th scope="row">1</th>
         <td>iPhone 13</td>
         <td>
-          <img src="https://photo.znews.vn/w660/Uploaded/mdf_eioxrd/2021_07_06/2.jpg" width=90 className="rounded" />
+          <img
+            src="https://photo.znews.vn/w660/Uploaded/mdf_eioxrd/2021_07_06/2.jpg"
+            width={90}
+            className="rounded"
+          />
         </td>
         <td>20,000,000đ</td>
         <td>Điện thoại Apple cao cấp</td>
@@ -39,4 +43,4 @@
       </tr>
     </tbody>
   </table>
-</div>
+</div>;
